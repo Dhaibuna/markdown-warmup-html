@@ -6,6 +6,53 @@
 
 body{
     background-color: #FFF3AD;
-   
-    ;
+    font-family: 'Fondamento', cursive;
+    font-family: 'Lato', sans-serif;
+    color :#0A2E36;
 }
+
+
+h1, h2{
+    text-align:center;
+    font-family: 'Fondamento', cursive;;
+    padding-top: 25px;
+}
+
+h1{
+    font-size: 55px;
+}
+
+h2{
+    font-size:40px;
+}
+
+blockquote{
+    padding-top: 15px;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+blockquote cite{
+    font-weight: bold;
+}
+
+img{
+    margin-left: 45%;
+}
+
+table{
+    margin-left: 30%;
+    margin-top : 25px;
+    text-align: center;
+    border: 2px solid #0A2E36;
+    border-spacing: 25px;
+    border-collapse: collapse;
+}
+
+th , td{
+    border: 2px solid #0A2E36;
+    padding: 10px;
+}
+
