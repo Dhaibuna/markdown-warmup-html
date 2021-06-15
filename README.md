@@ -1,1 +1,1 @@
-[Ceci est un lien, cliques, tu verras.](https://dhaibuna.github.io/markdown-warmup-html/)
+[Ceci est un lien, cliques et tu verras.](https://dhaibuna.github.io/markdown-warmup-html/)
